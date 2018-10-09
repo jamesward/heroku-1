@@ -1,1 +1,1 @@
-web: gunicorn app: formalin_apps.py
+web: gunicorn app: apps.py
